@@ -38,7 +38,7 @@ Helpful, but optional:
 ## Installation
 
 ```bash
-$ truffle unbox bsc-starter-box
+truffle unbox bnb-chain/BSC-Truffle-Starter-Box
 ```
 
 ## Setup
