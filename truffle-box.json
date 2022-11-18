@@ -1,4 +1,7 @@
 {
+  "ignore": [
+    "*.png"
+  ],
   "commands": {
       "Compile Contracts": "truffle compile"
   },
