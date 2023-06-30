@@ -107,7 +107,7 @@ Documentation for how to set up MetaMask to configure custom network like BSc Te
 
 Follow the steps in the documentation above using the BNB Smart Chain RPC endpoints (`https://docs.bnbchain.org/docs/rpc`). The `chainId` values are the same as those in the `truffle-config.bsc.js` networks entries.
 
-To get testnet BNB tokens use the official [faucet](https://testnet.binance.org/faucet-smart).
+To get testnet BNB tokens use the official [faucet](https://testnet.bnbchain.org/faucet-smart).
 
 ## Basic Commands
 
